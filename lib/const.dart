@@ -1,0 +1,14 @@
+import 'package:flutter/material.dart';
+late final String res;
+late final String val;
+late final String des;
+const kBottomContainersize=80;
+const kActivecolor=Color(0xFF1D1E33);
+const kBottomContainerColor=Colors.pinkAccent;
+const Color kInactivecolor=Color(0xFF111328);
+const kNumbertextstyle=TextStyle(fontSize:30,fontWeight:FontWeight.w900);
+const kLabeltextstyle=TextStyle(fontSize:18,fontWeight:FontWeight.w900);
+const kTitletextstyle=TextStyle(fontSize: 30,fontWeight: FontWeight.bold);
+const kResulttextstyle=TextStyle(fontSize:18,fontWeight: FontWeight.bold,color: Colors.greenAccent );
+const kResultnumstyle=TextStyle(fontSize:100,fontWeight:FontWeight.bold);
+const kResultsentencestyle=TextStyle(fontSize: 18,fontWeight: FontWeight.bold);
